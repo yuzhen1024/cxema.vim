@@ -1,3 +1,4 @@
+let g:airline_theme="laederon"
 
 set background=dark
 highlight clear

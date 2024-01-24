@@ -26,4 +26,8 @@
 Just put it in your colors folder, yo <br>
 (~/.config/nvim/colors) for neovim <br>
 for vim <s>just use neovim</s>  (/usr/share/vim/)
- 
+
+```
+Plug "xxxx/xxxx"
+set termguicolors
+```
